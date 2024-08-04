@@ -1,10 +1,10 @@
 # ZHUGE
 
-![logo](ZHUGE_sanmou/images/SanMouLLM.jpeg)
+![logo](./images/SanMouLLM.jpeg)
 
 **介绍**
 
-*[三国：谋定天下](https://game.bilibili.com/nslg/gw/)*是一款 BiliBili 开发的三国题材SLG手游，具有一定的策略与趣味性。
+[三国：谋定天下](https://game.bilibili.com/nslg/gw/) 是一款 BiliBili 开发的三国题材SLG手游，具有一定的策略与趣味性。
 
 本项目致力于构建一个基于*三国：谋定天下*游戏内容的 AI 配将助手 **诸葛**，基于LLM的零样本能力，根据玩家的*武将*和*战法*信息给出尽可能合理的配将方案。
 
